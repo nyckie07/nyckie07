@@ -1,8 +1,12 @@
-## Hi guys! Tudo bem? Eu me chamo Nycolle Símane e aqui no meu perfil vocês encontraram alguns dos projetos que já desevolvi. 
+## Hi guys! Tudo bem? Eu me chamo Nycolle Símane. 
 
-- 💻 Sou desenvolvedora em frond-end
 - ♨️ Estudante de Java
+- 💻 Sou desenvolvedora em frond-end
+- 🌐 Densenvolvi um site web sobre cibersegurança
+- 👾 App em desenvolvimento hamburgueria | flutterflow
 - ✉️ Email de contato: simanenicole@gmail.com
+
+Aqui no meu perfil vocês encontraram alguns dos projetos que já desenvolvi utilizando as ferramentas de html, css e js; 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nyck-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
