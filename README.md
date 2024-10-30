@@ -1,4 +1,4 @@
-## Olá guys! Sejam bem-vindos ao meu perfil, eu sou a Nycolle Símane.👋
+## Hi guys! Eu sou a Nycolle Símane.👋
 
 <!--
 **nyckie07/nyckie07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
