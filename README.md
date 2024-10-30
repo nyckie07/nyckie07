@@ -1,4 +1,4 @@
-## Hi guys! Tudo bem? Bem-vindos ao meu perfil, eu me chamo Nycolle Símane e aqui vocês vocês iram encontrar alguns dos meus projetos desenvolvidos em html, css e js e até mesmo o temido java. 
+## Hi guys! Tudo bem? Eu me chamo Nycolle Símane e aqui no meu perfil vocês encontraram alguns dos projetos que já desevolvi. 
 
 - 💻 Sou desenvolvedora em frond-end
 - ♨️ Estudante de Java
@@ -15,7 +15,6 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/nycollensl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:simanenicole@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nycolle-s%C3%ADmane-06a70a278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
