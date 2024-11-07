@@ -6,9 +6,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nyckie07&background=0D1117&border=7B68EE&ring=7B68EE&fire=7B68EE&currStreakLabel=E6E6FA&sideLabels=E6E6FA&dates=E6E6FA&currStreakNum=7B68EE&sideNums=7B68EE&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900" alt="GitHub Streak" style="max-width: 100%;">
 </p>
 
-
 Atualmente, sou estudante do curso Técnico em Informática no Instituto Federal do Maranhão. Durante os últimos três anos, desenvolvi habilidades em diversas áreas da tecnologia, com ênfase no desenvolvimento de aplicativos e websites, tanto no front-end quanto no back-end (onde tenho maior afinidade com o front-end). Essa experiência tem sido fundamental para o meu crescimento acadêmico e profissional, e estou animada para continuar explorando e aprimorando meus conhecimentos neste mundo da tecnologia.
-
 
 <div align="center" >
   
@@ -28,7 +26,6 @@ Atualmente, sou estudante do curso Técnico em Informática no Instituto Federal
 - Website sobre Cibersegurança: Criado com o objetivo de promover a educação sobre segurança online. O projeto foi aprovado no Congresso Norte-Nordeste de Pesquisa e Inovação (CONNEPI), realizado em Belém do Pará, e também no PIBIC. <a href="https://nyckie07.github.io/IFsecurity/" target="_blank">LINK IFSECURITY</a>
 - Jogo em Desenvolvimento (Mobilidade 2D): Com o objetivo de aprimorar o aprendizado em cibersegurança, o jogo utiliza conceitos de movimentação e interação em um ambiente 2D.
 - Aplicativo em desenvolvimento (Mobile) sobre hamburgueria, utilizando a ferramenta FlutterFlow, com o objetivo de aprimorar conhecimentos em desenvolvimento de aplicativos móveis.
-
 
 <div align="center">
   <a href="https://www.linkedin.com">
