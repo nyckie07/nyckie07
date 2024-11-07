@@ -7,7 +7,7 @@
 </p>
 
 
-Sou uma Técnica em Informática, atualmente me formando e explorando o mundo da tecnologia. Adoro aprender mais sobre o mundo tecnológico, melhorar minhas habilidades de comunicação e trabalho em equipe. Ao longo da minha trajetória, desenvolvi uma afinidade muito boa por desenvolvimento web, onde criei um website sobre cibersegurança, hospedado aqui no meu GitHub. Sempre com foco no aprendizado contínuo e no desenvolvimento profissional.
+Atualmente, sou estudante do curso Técnico em Informática no Instituto Federal do Maranhão. Durante os últimos três anos, desenvolvi habilidades em diversas áreas da tecnologia, com ênfase no desenvolvimento de aplicativos e websites, tanto no front-end quanto no back-end (onde tenho maior afinidade com o front-end). Essa experiência tem sido fundamental para o meu crescimento acadêmico e profissional, e estou animada para continuar explorando e aprimorando meus conhecimentos neste mundo da tecnologia.
 
 
 <div align="center" >
