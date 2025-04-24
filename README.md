@@ -6,7 +6,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nyckie07&background=0D1117&border=7B68EE&ring=7B68EE&fire=7B68EE&currStreakLabel=E6E6FA&sideLabels=E6E6FA&dates=E6E6FA&currStreakNum=7B68EE&sideNums=7B68EE&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900" alt="GitHub Streak" style="max-width: 100%;">
 </p>
 
-Sou estudante do curso Técnico em Informática no Instituto Federal do Maranhão, onde tenho desenvolvido habilidades em tecnologia, especialmente em desenvolvimento de aplicativos e websites, com mais afinidade no front-end. Ao longo desses três anos, venho aprimorando o olhar para criar interfaces que sejam agradáveis e práticas de usar. Gosto de aprender e me desafiar, e estou sempre animada para descobrir novas formas de contribuir com a tecnologia e crescer nessa área.
+Sou formada no curso Técnico em Informática pelo Instituto Federal do Maranhão, onde desenvolvi habilidades na área de tecnologia, com ênfase em desenvolvimento de aplicativos e websites. Tenho mais afinidade com o front-end, área na qual venho aprimorando meu olhar para criar interfaces que unam estética e funcionalidade, proporcionando uma experiência agradável e intuitiva para o usuário.
 
 <div align="center" >
   
@@ -52,7 +52,7 @@ Sou estudante do curso Técnico em Informática no Instituto Federal do Maranhã
     </tr>
     <tr>
       <td>Python</td>
-      <td>75%</td>
+      <td>50%</td>
     </tr>
     <tr>
       <td>JavaScript</td>
