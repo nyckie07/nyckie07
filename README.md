@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=HI+GUYS,+my+name+is+Nycolle+Símane;I'm+18+years+old;I'm+from+Brazil;I'm+a+student+of+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=HI+GUYS,+my+name+is+Nycolle+Símane;I'm+18+years+old;I'm+from+Brazil;I'm+a+certified+TI+technician;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nyckie07&background=0D1117&border=7B68EE&ring=7B68EE&fire=7B68EE&currStreakLabel=E6E6FA&sideLabels=E6E6FA&dates=E6E6FA&currStreakNum=7B68EE&sideNums=7B68EE&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900" alt="GitHub Streak" style="max-width: 100%;">
