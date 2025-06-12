@@ -25,7 +25,6 @@ Sou formada no curso Técnico em Informática pelo Instituto Federal do Maranhã
 
 - Website sobre Cibersegurança: Criado com o objetivo de promover a educação sobre segurança online. O projeto foi aprovado no Congresso Norte-Nordeste de Pesquisa e Inovação (CONNEPI), realizado em Belém do Pará, e também no PIBIC. <a href="https://nyckie07.github.io/IFsecurity/" target="_blank">LINK IFSECURITY</a>
 - Jogo em Desenvolvimento (Mobilidade 2D): Com o objetivo de aprimorar o aprendizado em cibersegurança, o jogo utiliza conceitos de movimentação e interação em um ambiente 2D.
-- Aplicativo em desenvolvimento (Mobile) sobre hamburgueria, utilizando a ferramenta FlutterFlow, com o objetivo de aprimorar conhecimentos em desenvolvimento de aplicativos móveis.
 
 <div align="center">
   <a href="https://www.linkedin.com">
