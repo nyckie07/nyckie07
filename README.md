@@ -13,14 +13,6 @@ Sou formada no curso Técnico em Informática pelo Instituto Federal do Maranhã
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/nyckie07?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=Purple) 
 </div>
 
-
-## Habilidades Pessoais
-
-- **Comunicação eficaz**
-- **Resiliência em ambientes desafiadores**
-- **Organização e gestão de tempo**
-- **Trabalho em equipe**
-
 ## Informações Profissionais
 
 - Website sobre Cibersegurança: Criado com o objetivo de promover a educação sobre segurança online. O projeto foi aprovado no Congresso Norte-Nordeste de Pesquisa e Inovação (CONNEPI), realizado em Belém do Pará, e também no PIBIC. <a href="https://nyckie07.github.io/IFsecurity/" target="_blank">LINK IFSECURITY</a>
