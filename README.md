@@ -43,38 +43,6 @@ Sou formada no curso Técnico em Informática pelo Instituto Federal do Maranhã
 
 <br>
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Linguagem</th>
-      <th>Percentual de Uso</th>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td>50%</td>
-    </tr>
-    <tr>
-      <td>JavaScript</td>
-      <td>65%</td>
-    </tr>
-    <tr>
-      <td>HTML/CSS</td>
-      <td>100%</td>
-    </tr>
-    <tr>
-      <td>JAVA</td>
-      <td>60%</td>
-    </tr>
-    <tr>
-      <td>React Native</td>
-      <td>25%</td>
-    </tr>
-  </table>
-</div>
-
-<br>
-<br>
-
 <p align="center">
   <img alt="Nyck-Js" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Nyck-Java" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
